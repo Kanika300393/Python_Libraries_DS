@@ -1,4 +1,8 @@
 # Python_Libraries_DS
+
+![image](https://github.com/user-attachments/assets/db9ddd05-cdae-4c20-82a0-c115c051f20d)
+
+ 
 This repository is a curated collection of Python libraries designed specifically for Data Science enthusiasts. Whether you're a beginner just getting started or an experienced data scientist looking to expand your toolkit, you'll find a range of libraries here that cater to various aspects of Data Science.
 
 # Why This Repository?
@@ -11,7 +15,8 @@ You'll find libraries organized by category, with clear explanations of their fu
 
 For those new to Data Science, getting started can be overwhelming due to the abundance of tools and libraries available. Here are some of the essential Python libraries that every Data Science student should familiarize themselves with:
 
-### Pandas: 
+### Pandas:
+
 The go-to library for data manipulation and analysis. Pandas makes it easy to handle structured data and perform operations such as merging, filtering, and grouping data.
 
 ### NumPy: 
